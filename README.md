@@ -1,6 +1,6 @@
 ABOUT
 
-Scenecentric is a multimedia authoring tool. It uses Lingo as its official programming language (used in Adobe Director) and a movie UI metaphor, with the user as the "director" of a movie.
+SCENECENTRIC is a multimedia authoring tool. It uses Lingo as its official programming language (used in Adobe Director) and a movie UI metaphor, with the user as the "director" of a movie.
 
 Please bear in mind this version is still a work in progress.
 
