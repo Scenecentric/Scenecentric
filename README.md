@@ -1,16 +1,26 @@
-### Hi there 👋
+ABOUT
 
-<!--
-**Scenecentric/Scenecentric** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scenecentric is a multimedia authoring tool. It uses Lingo as its official programming language (used in Adobe Director) and a movie UI metaphor, with the user as the "director" of a movie.
 
-Here are some ideas to get you started:
+Please bear in mind this version is still a work in progress.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+MAIN FEATURES
+
+• Movie UI metaphor, with the user as the "director" of the movie:
+Timeline (for animations)
+Stage (preview and final result window)
+Cast (library of the elements)
+
+• Lingo programming language
+
+• Checkbox for Draggable Sprite
+
+• Add and animate text
+
+• Change the Stage size.
+
+TOOLS USED
+
+Scenecentric was created using Qt software development framework. It was used Qt/C++ and no other Libs!
+
+Please use Qt 5.11 MinGW version.
