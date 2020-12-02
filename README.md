@@ -23,12 +23,10 @@ TOOLS USED
 
 Scenecentric was created using Qt software development framework. It was used Qt/C++ and no other Libs!
 
-Please use Qt 5.11 MinGW version.
-
 CREDITS
 
 Marlon Moser
 Project Founder and Technical Lead
 
 Mostafa Alizadeh
-Chief Programmer and Qt Developer
+Programmer and Qt Developer
